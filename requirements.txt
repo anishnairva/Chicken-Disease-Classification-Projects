@@ -1,0 +1,50 @@
+# Install TensorFlow, a popular open-source machine learning library for Python
+tensorflow
+
+# Install pandas, a powerful data manipulation and analysis library for Python
+pandas
+
+# Install Data Version Control (dvc), a tool for managing and versioning data and machine learning models
+dvc
+
+# Install Jupyter Notebook, a web-based interactive computing environment for Python
+notebook
+
+# Install NumPy, a fundamental package for scientific computing with Python
+numpy
+
+# Install Matplotlib, a plotting library for creating static, animated, and interactive visualizations in Python
+matplotlib
+
+# Install Seaborn, a statistical data visualization library based on Matplotlib
+seaborn
+
+# Install python-box==6.0.2, a library for recursive data structure validation and coercion
+python-box==6.0.2
+
+# Install PyYAML, a YAML parser and emitter for Python
+pyYAML
+
+# Install tqdm, a fast, extensible progress bar for Python and CLI
+tqdm
+
+# Install ensure==1.0.2, a library that provides a simple way to ensure that certain conditions are met before executing a block of code
+ensure==1.0.2
+
+# Install joblib, a library for parallel computing in Python
+joblib
+
+# Install types-PyYAML, a library that provides type hints for the PyYAML library
+types-PyYAML
+
+# Install SciPy, a library for scientific computing and technical computing in Python
+scipy
+
+# Install Flask, a lightweight web framework for Python
+Flask
+
+# Install Flask-Cors, a Flask extension for handling Cross-Origin Resource Sharing (CORS)
+Flask-Cors
+
+# Install packages in editable mode
+-e .
